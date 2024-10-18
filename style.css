@@ -1,0 +1,17 @@
+body{
+   background-color: #ffffff;  
+}  
+#about{
+    padding-left: 250px;
+    padding-right: 250px;
+    background-color: #f3ff6d;
+}
+
+section{
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+#contact{
+    background-color: #ffa8dc;
+}
+
